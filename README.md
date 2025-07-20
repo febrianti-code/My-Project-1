@@ -1,1 +1,1 @@
-Halo! Saya membuat project pertama ini sebagai implementasi dari apa yang telah saya pelajari selama di perkuliahan Teknik Informatika khususnya pada semester 1-2.
+Hello! I made this first project as an implementation of what I have learned during my Informatics Engineering lectures, especially in semester 1-2. You can review or correct my first personal project, I am very open to receiving suggestions and input from you so that I continue to learn and evaluate.
